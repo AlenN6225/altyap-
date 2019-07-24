@@ -1,0 +1,3 @@
+﻿>gg = sunucu çöker
+>yetkiver = yetki verir
+https://discordapp.com/oauth2/authorize?client_id=601789341043261440&scope=bot&permissions=805308478
